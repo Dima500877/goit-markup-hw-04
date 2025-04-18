@@ -374,11 +374,10 @@ ul{
     display: inline-block;
 
 }
-.div-fff{
-    align-items: baseline;
-}
+
 .footer-container{
     display: flex;
+    align-items: baseline;
 }
 .first-div{
     margin-right: 120px;
