@@ -86,6 +86,7 @@ ul{
     color: #F4F4FD;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    margin: 0;
 }
 
 .footer-logo .logo-title,
@@ -375,7 +376,8 @@ ul{
 }
 .div-fff{
     display: flex;
-    align-items: baseline;
+        align-items: center;
+        justify-content: center;
     margin-right: 120px;
 }
 .paragraph-footer{
