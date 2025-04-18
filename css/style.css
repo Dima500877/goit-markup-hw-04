@@ -377,6 +377,9 @@ ul{
 .div-fff{
     margin-right: 120px;
 }
+.footer-container{
+    display: flex;
+}
 .paragraph-footer{
     font-weight: 500;
     font-size: 16px;
